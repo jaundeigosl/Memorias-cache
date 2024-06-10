@@ -10,7 +10,7 @@ int main(){
     if(archivo.fail()){ //validacion de apertura
         cout<<"Error abriendo el archivo"<<endl;
     }else{
-    const int lineasCache =4;   //luneas o bloques de una cache
+    const int lineasCache =4;   //lineas o bloques de una cache
     const int conjuntosCache =2;    //conjuntos de la cache asociativa por conjuntos
     const int lineasPorConjunt =2;  //lineas o bloques por conjunto
     const int palabrasBloque = 1;   //palabras por linea o bloque

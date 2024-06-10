@@ -1,0 +1,18 @@
+Correspondencia directa
+Fallo
+Fallo
+Fallo
+Fallo
+Fallo
+Asociativa por Conjuntos
+Fallo
+Fallo
+Acierto
+Fallo
+Fallo
+Completamente Asociativa
+Fallo
+Fallo
+Acierto
+Fallo
+Acierto
