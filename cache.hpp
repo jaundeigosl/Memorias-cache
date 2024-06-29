@@ -206,10 +206,8 @@ class Cache{
 
         // recorriendo los conjuntos buscando el correspondiente con el indice
             typename std::list<ConjuntoCache<LineaCache<T>>>::iterator it = conjuntos.begin();
-            int pos=0;
             while(it != conjuntos.end() && (*it).getIndice()!=indice){
                 it++;
-                pos++;
             }
             encontrado = (*it).encontrarLineaCache(etiqueta);
             if(!encontrado){
